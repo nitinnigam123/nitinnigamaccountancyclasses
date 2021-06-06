@@ -528,5 +528,16 @@ body {
 	color: white;
 	font-size: 90px;
 }
+	.content4{
+	border-style: inset;
+	padding-top:100px;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: whitesmoke;
+}
 }
 
